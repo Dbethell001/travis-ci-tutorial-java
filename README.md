@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/joaomlneto/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/jwillenbring/travis-ci-tutorial-java)
-[![Code Coverage](https://codecov.io/github/joaomlneto/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/jwillenbring/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.org/dbethell001/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/dbethell001/travis-ci-tutorial-java)
+[![Code Coverage](https://codecov.io/github/dbethell001/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/dbethell001/travis-ci-tutorial-java)
 
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
@@ -24,7 +24,7 @@ What's done for you:
 
 If you want to use it:
 - Go to the Codecov website and create an account and setup permissions.
-- Add your repository (you can go there directly by going to https://codecov.io/gh/your-github-username/travis-ci-tutorial-java)
+- Add your repository (you can go there directly by going to https://codecov.io/gh/dbethell001/travis-ci-tutorial-java)
 - Fix the `README.md` badge.
 
 If you don't want it:
@@ -35,4 +35,4 @@ If you don't want it:
 # Contributing
 
 Spotted a mistake? Questions? Suggestions?  
-[Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)!
+[Open an Issue](https://github.com/dbethell001/travis-ci-tutorial-java/issues/new)!
